@@ -31,8 +31,7 @@ Laporan Belum Jadi Sama Sekali -- No Progress
 
 ---
 
-# word-macro
-Macro Microsoft Word untuk memudahkan membuat laporan and such...
+### Checklist
 
 - [x] Automatic Heading 1-3 Position and Format ✅ 2025-11-17
 	- [x] Fix jika style heading sudah ada maka PASS ✅ 2025-11-22
