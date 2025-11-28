@@ -1,3 +1,35 @@
+### Use Case
+
+Laporan Sudah Jadi -- Sisa Halaman dan Daftar Isi
+1. ALT+F : Format
+2. ALT+E : Angka Halaman
+3. ALT+R : Reset Romawi (Letakkan Kursor di lembar yang ingin di Reset ---> **BAB 1**)
+4. ALT+T : Buat Daftar Isi Otomatis (Letakkan Kursor di garis kosong di lembar DAFTAR ISI)
+
+Laporan Setengah Jadi -- Margin Heading Format & Numbering
+
+
+Laporan Belum Jadi Sama Sekali -- No Progress
+
+
+---
+
+### List Shortcut
+
+- ALT + F  :  Format Margins, Heading, Numbering
+- ALT + 1  :  Heading 1
+- ALT + 2  :  Heading 2
+- ALT + 3  :  Heading 3
+- ALT + SHIFT + 2  :  Heading 2 Normal (Paragraf di dalam Heading 2)
+- ALT + SHIFT + 3  :  Heading 3 Normal (Paragraf di dalam Heading 3)
+- ALT + E  :  Lembar Halaman
+- ALT + R  :  Reset Halaman Romawi ke Angka Numerik Arab (1, 2, 3), Beserta Heading 1
+- ALT + R  :  Reset Heading 1
+- ALT + Q  :  Section Break (Next Page)
+- ALT + B   :  Section Break Fix
+
+
+---
 
 # word-macro
 Macro Microsoft Word untuk memudahkan membuat laporan and such...
@@ -42,38 +74,3 @@ Macro Microsoft Word untuk memudahkan membuat laporan and such...
 - [ ] Post IG!! Anjayy
 - [ ] ???
 - [ ] Profit...!!! 
-
----
-
-### List Shortcut
-
-- ALT + F  :  Format Margins, Heading, Numbering
-- ALT + 1  :  Heading 1
-- ALT + 2  :  Heading 2
-- ALT + 3  :  Heading 3
-- ALT + SHIFT + 2  :  Heading 2 Normal (Paragraf di dalam Heading 2)
-- ALT + SHIFT + 3  :  Heading 3 Normal (Paragraf di dalam Heading 3)
-- ALT + E  :  Lembar Halaman
-- ALT + R  :  Reset Halaman Romawi ke Angka Numerik Arab (1, 2, 3), Beserta Heading 1
-- ALT + R  :  Reset Heading 1
-- ALT + Q  :  Section Break (Next Page)
-- ALT + B   :  Section Break Fix
-
-
----
-
-### Use Case
-
-Laporan Sudah Jadi -- Sisa Halaman dan Daftar Isi
-1. ALT+F : Format
-2. ALT+E : Angka Halaman
-3. ALT+R : Reset Romawi (Letakkan Kursor di lembar yang ingin di Reset ---> **BAB 1**)
-4. ALT+T : Buat Daftar Isi Otomatis (Letakkan Kursor di garis kosong di lembar DAFTAR ISI)
-
-Laporan Setengah Jadi -- Margin Heading Format & Numbering
-
-
-Laporan Belum Jadi Sama Sekali -- No Progress
-
-
----
