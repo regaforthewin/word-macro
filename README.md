@@ -1,19 +1,3 @@
-### Use Case
-
-Laporan Sudah Jadi -- Sisa Halaman dan Daftar Isi
-1. ALT+F : Format
-2. ALT+E : Angka Halaman
-3. ALT+R : Reset Romawi (Letakkan Kursor di lembar yang ingin di Reset ---> **BAB 1**)
-4. ALT+T : Buat Daftar Isi Otomatis (Letakkan Kursor di garis kosong di lembar DAFTAR ISI)
-
-Laporan Setengah Jadi -- Margin Heading Format & Numbering
-
-
-Laporan Belum Jadi Sama Sekali -- No Progress
-
-
----
-
 ### List Shortcut
 
 - ALT + F  :  Format Margins, Heading, Numbering
@@ -22,16 +6,20 @@ Laporan Belum Jadi Sama Sekali -- No Progress
 - ALT + 3  :  Heading 3
 - ALT + SHIFT + 2  :  Heading 2 Normal (Paragraf di dalam Heading 2)
 - ALT + SHIFT + 3  :  Heading 3 Normal (Paragraf di dalam Heading 3)
-- ALT + E  :  Lembar Halaman
-- ALT + R  :  Reset Halaman Romawi ke Angka Numerik Arab (1, 2, 3), Beserta Heading 1
+- ALT + L   : Heading 2 Bold tanpa Angka-- Seperti Untuk Lampiran
 - ALT + R  :  Reset Heading 1
-- ALT + Q  :  Section Break (Next Page)
-- ALT + B   :  Section Break Fix
-
+- ALT + H  :  Lembar Halaman
+- ALT + SHIFT + H  :  Reset Halaman ke Angka Arab, Beserta Heading 1, letakkan kursor di lembar yang ingin di reset -> contoh BAB I
+- ALT + D  :  Daftar Isi Otomatis
+- ALT + SHIFT + G  :  Caption Gambar
+- ALT + SHIFT + T   :  Caption Tabel
+- ALT + G  :  Daftar Gambar Otomatis
+- ALT + T  :   Daftar Tabel Otomatis
+- ALT + B  :  Section Break
+  
+- ~~ALT + V   :  Section Break Fix~~
 
 ---
-
-### Checklist
 
 - [x] Automatic Heading 1-3 Position and Format ✅ 2025-11-17
 	- [x] Fix jika style heading sudah ada maka PASS ✅ 2025-11-22
@@ -54,10 +42,16 @@ Laporan Belum Jadi Sama Sekali -- No Progress
 	  ~~Its actually a pretty bad idea and works problematically~~
 	  Wait ill have different implementation, because its actually needed!
 	  Buat menjadi shortcut?? jadi search trough every heading 1, if found then move cursor to the previous page really edge, add section break, if section > 1 ofc ^730c46
-- [x] Automatic Table of Content!! Based on our my own *good* format rather than default word!! ✅ 2025-11-28
-- [ ] Buat Universal Frame, whatchacalit table of Figures yes
-	- [ ] Photo frame complete with with the description 
-	- [ ] Table frame complete with the description 
+- [ ] Automatic Table of Content!! Based on our my own *good* format rather than default word!!
+	- [x] Basic Heading 1 -> 3 ✅ 2025-12-02
+	- [x] Table Of Figures ✅ 2025-12-03
+	- [ ] List Lampiran?? didalam chapter LAMPIRAN -- **Buat style untuk laporan**
+- [ ] Buat Universal Frame, whatchacalit table of Figures yes ^dca103
+	- [x] Photo frame complete with with the description -- Both are partially done, just not yet with the desc ✅ 2025-12-03
+	- [x] Table frame complete with the description ✅ 2025-12-03
+- [ ] Abstract Txt Style
+- [ ] Might have to research more about lampiran
+	- [ ] Something about A2 B1 B2
 - [ ] Setup AutoExec jadinya tidak broken ketika dibuka kembali
 	- [ ] Buat seperti metadata? kalo filenya ini pernah dibuka dan diedit menggunakan macros nya
 	Wait AutoExec gimana??,  i forgor problemnya apa
@@ -70,6 +64,3 @@ Laporan Belum Jadi Sama Sekali -- No Progress
 	- [ ] make undo button works after macroing
 	- [ ] Shortcut increase paragraph indent incase tabs doesnt work
 - [ ] Bug Testing
-- [ ] Post IG!! Anjayy
-- [ ] ???
-- [ ] Profit...!!! 
